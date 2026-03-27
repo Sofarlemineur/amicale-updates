@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "url_arm64": "https://Sofarlemineur.github.io/amicale-updates/app-arm64-v8a-release.apk",
+  "url_arm32": "https://Sofarlemineur.github.io/amicale-updates/app-armeabi-v7a-release.apk",
+  "notes": "Première version de l'appli !"
+}
